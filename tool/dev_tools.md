@@ -1,0 +1,30 @@
+## 一、工具
+- MacBook Pro 2016
+- [IDEA](https://www.jetbrains.com/idea/)
+- Chrome
+- FireFox
+- PostMan
+- 为知笔记
+- office
+- Sublime Text3
+- Iterm2
+- zsh
+- Oh my zsh
+- 有道翻译
+- Foxmail
+- Xmind
+- Dash
+- Kindle
+- [processon](http://processon.com/):画图相关
+- [Google](www.google.com)
+- 百度网盘
+- Shadowsocks
+- 射手影音
+- Parallels Desktop
+- Timing
+- RoboMongo
+- DataGrip
+- 滴答清单
+- Alfred 3
+- snip(截屏软件)
+- Pocket
