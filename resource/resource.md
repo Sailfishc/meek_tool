@@ -1,0 +1,2 @@
+- [Shadowsocks福利社](http://test.changdaye.top/)
+- [IntelliJ IDEA 注册码](http://idea.lanyus.com/)

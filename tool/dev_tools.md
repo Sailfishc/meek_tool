@@ -28,3 +28,5 @@
 - Alfred 3
 - snip(截屏软件)
 - Pocket
+- vertabelo.com（在线数据表涉及，类似PD)
+- [any.do](https://web.any.do/)：清单列表

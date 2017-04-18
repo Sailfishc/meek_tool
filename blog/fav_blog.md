@@ -10,5 +10,13 @@
 - [你假笨-简书](http://www.jianshu.com/u/d126f1401a09):JVM相关
 - [miaoLoveCode-简书](http://www.jianshu.com/u/42116042245c):并发相关
 - [Jerry Qu](https://imququ.com/):Http相关
-
-
+- [周志明博客-iteye](http://icyfenix.iteye.com/)：虚拟机相关
+- [GinoBeFunny](https://github.com/ginobefun):Java/ES相关`
+- [阿里中间件](http://jm.taobao.org/)
+- [Xingo](http://www.cnblogs.com/xing901022/p/3694709.html):JavaWeb程序员，读书达人，ELK相关
+- [hao0](https://t.hao0.me/):分布式系统，Java等
+- [brucefeng](http://blog.brucefeng.info/):大众点评brucefeng，博客超接地气
+- [王爵](http://biezhi.me/):blade框架
+- [周立](http://www.itmuch.com/):springcloud,docker
+- [许进](http://xujin.org/)
+- [三斗室](http://chenlinux.com/)：elk相关

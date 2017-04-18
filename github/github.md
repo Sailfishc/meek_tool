@@ -2,3 +2,11 @@
 - [路小磊](https://github.com/looly):hutool/ES权威指南中文翻译gitbook/Python基础教程Gitbook版
 - [老齐](https://github.com/qiwsir):Python从入门到精通作者
 - [杜琪](https://github.com/duqicauc)Java相关
+- [企业后台管理系统基础框架](https://github.com/hs-web)
+- [ihaolin](https://github.com/ihaolin):轻量级系统相关（支付宝，微信组件）
+- [中国自然语言处理开源组织](https://github.com/NLPchina)
+- [当当](https://github.com/dangdangdotcom)：dubbox
+- [王爵](https://github.com/biezhi):blade框架作者
+- [周立](https://github.com/eacdy)
+- [spring one platform 2016](https://github.com/SpringOnePlatform2016)
+- [张开涛](https://github.com/zhangkaitao):跟我学shiro等博客
