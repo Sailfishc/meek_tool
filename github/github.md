@@ -10,3 +10,5 @@
 - [周立](https://github.com/eacdy)
 - [spring one platform 2016](https://github.com/SpringOnePlatform2016)
 - [张开涛](https://github.com/zhangkaitao):跟我学shiro等博客
+- [mybatis插件作者](https://github.com/abel533):丰富的mybatis知识
+- [apache](https://github.com/apache)
